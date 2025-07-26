@@ -52,11 +52,11 @@ This toolkit is being designed **with the community, for the community**, and is
 
 ## 📚 Learn More
 
-- [📜 Manifesto](https://reopen.oss/manifesto)  
-- [📚 Knowledge Hub](https://reopen.oss/knowledge)  
-- [🧪 ReOpen Labs](https://reopen.oss/labs)  
-- [🎙️ Stories](https://reopen.oss/stories)  
-- [🤝 Support](https://reopen.oss/support)
+- [📜 Manifesto](https://letsreopen.com/manifesto)  
+- [📚 Knowledge Hub](https://letsreopen.com/knowledge-hub)  
+- [🧪 ReOpen Labs](https://letsreopen.com/labs)  
+- [🎙️ Stories](https://letsreopen.com/stories)  
+- [🤝 Support](https://letsreopen.com/support)
 
 ---
 
