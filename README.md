@@ -1,1 +1,1 @@
-# .github
+Information on ReOpen 
