@@ -66,7 +66,7 @@ Whether you're a first-time contributor, a burned-out maintainer, or just someon
 
 Join the movement and help us reimagine what open source can be.
 
-[👉 Join the Community](https://reopen.oss/join)
+[👉 Join the Community](https://letsreopen.com/join)
 
 ---
 
